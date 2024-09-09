@@ -1,5 +1,5 @@
 # Gimp_EditorImagens 
 
-*Banner 
+*Banner
 
  
